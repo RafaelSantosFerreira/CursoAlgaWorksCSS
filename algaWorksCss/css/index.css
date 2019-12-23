@@ -9,3 +9,18 @@ body{
     font-size: 14px;
 
 }
+header {
+    border-bottom: 1px solid #ccc;
+    height: 60px;
+}
+
+header img {
+   margin-top: 12px;
+}
+.container{
+    width:1200px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
